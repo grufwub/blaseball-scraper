@@ -1,0 +1,1 @@
+Blaseball stream data scraper + appropriate JSON data structures
